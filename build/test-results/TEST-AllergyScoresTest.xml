@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllergyScoresTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2016-04-21T18:04:44" hostname="epicodus-93.local" time="0.002">
+  <properties/>
+  <testcase name="FinalAllergies_OutputChocolateToEggsTest" classname="AllergyScoresTest" time="0.001"/>
+  <testcase name="FinalAllergies_OutputPeanutsTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputChocolateTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputShellfishTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputTomatoesTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputPollenTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputEverythingTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputEggsTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputCatsTest" classname="AllergyScoresTest" time="0.0"/>
+  <testcase name="FinalAllergies_OutputStrawberriesTest" classname="AllergyScoresTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
